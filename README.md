@@ -31,7 +31,7 @@ I'm constantly expanding my skill set to stay up-to-date with the ever-evolving 
 You can reach me at:
 
 - Email: [kakurajput11223344@gmail.com](mailto:kakurajput11223344@gmail.com)
-- ![LinkedIn]([https://example.com/html-logo.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)): [Abhishek Rajput](https://www.linkedin.com/in/itsabhishekrajput/)
+- ![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg): [Abhishek Rajput](https://www.linkedin.com/in/itsabhishekrajput/)
 - Instagram: [My Insta Profile](https://www.instagram.com/abhithegreatrajput/)
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLostShip&show_icons=true&theme=radical)
