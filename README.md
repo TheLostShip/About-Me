@@ -18,6 +18,8 @@ Here are some of the technologies and tools I work with:
   - HTML
   - CSS
   - JavaScript
+  - ReactJS
+  - NextJS
   - Bootstrap
   - Tailwind CSS
 
@@ -25,6 +27,7 @@ Here are some of the technologies and tools I work with:
   - Django
   - PHP
   - MySQL
+  - NodeJS
 
 I'm constantly expanding my skill set to stay up-to-date with the ever-evolving web development landscape.
 
